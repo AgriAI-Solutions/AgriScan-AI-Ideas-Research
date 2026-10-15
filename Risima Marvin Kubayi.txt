@@ -1,0 +1,5 @@
+idea no:1
+-An AI-driven wellness platform that monitors employee well-being through chatbot check-ins, workload analysis, after-hours activity tracking, and weekend work monitoring to identify stress and burnout risks early and promote a healthier work-life balance.
+
+idea no:2
+An AI-driven wellness platform that monitors employee well-being through chatbot check-ins, workload analysis, after-hours activity tracking, and weekend work monitoring to identify stress and burnout risks early and promote a healthier work-life balance.
