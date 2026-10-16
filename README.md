@@ -1,2 +1,2 @@
-# AgriScan-AI-Research-
-AI-powered plant disease detection system using deep learning and the PlantVillage dataset
+# AgriScan-AI-Ideas-Research
+A collaborative repository for researching, proposing and evaluating innovative project ideas to identify a suitable solution for further development.
