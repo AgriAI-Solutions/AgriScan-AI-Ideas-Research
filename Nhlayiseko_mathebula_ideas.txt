@@ -1,0 +1,13 @@
+1. AI-Powered Predictive Maintenance for Manufacturing
+ Problem:
+ Machines in factories break suddenly. Fixing them after they break costs a lot of money and stops production.
+Solution:
+ Put sensors on machines to collect temperature, vibration, sound. AI looks at that data and learns the pattern of a healthy machine. When the pattern changes, it predicts "this machine will break in 2 days".
+
+
+2. Automated Quality Control with Computer Vision
+
+Problem: In factories, people check products with their eyes for defects like scratches, cracks, or missing parts. It's slow, people get tired, and they miss defects. Bad products reach customers.
+
+Solution: Put a camera on the production line. AI looks at every product photo and learns what a GOOD product looks like vs a BAD product. If it sees a scratch or defect, it automatically rejects that product.
+
