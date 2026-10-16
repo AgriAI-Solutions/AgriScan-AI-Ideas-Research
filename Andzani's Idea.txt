@@ -1,0 +1,5 @@
+1. AgriScan-AI – AI-Powered Plant Disease Detector (AgriTech)
+An AI system that uses a Convolutional Neural Network (CNN) trained on plant leaf images to detect plant diseases. It identifies the predicted disease, provides a confidence score and suggests possible treatments to help farmers protect crops and improve agricultural productivity.
+
+2. AI-Powered Skin Cancer Detector (Healthcare)
+An AI system that analyses images of skin lesions to identify patterns associated with possible skin cancer. It provides a risk classification and recommends whether the user should seek medical evaluation. It supports early screening but does not replace professional diagnosis.
