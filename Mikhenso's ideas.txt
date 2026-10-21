@@ -1,0 +1,6 @@
+1. AI Scam Message Detector
+Users paste a suspicious SMS or email, and the application identifies warning signs and explains why the message may be risky.
+
+2.1. AI Customer Service Chatbot
+chatbot that answers customers' frequently asked questions about products, prices, opening hours and deliveries.
+Beginner-friendly
